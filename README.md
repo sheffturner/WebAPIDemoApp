@@ -1,2 +1,1 @@
-# WebAPIDemoApp
-Web API Demo App (.NET)
+WebAPIDemoApp
